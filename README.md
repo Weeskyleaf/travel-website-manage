@@ -1,5 +1,5 @@
 # travel-website-manage
-旅游网站_管理平台
+旅游网站的管理平台
 
 # 前言
 1. 新建travelwebsite数据库
